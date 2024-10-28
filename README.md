@@ -37,10 +37,3 @@ If possible, obtaining complete product category and user demographic informatio
 #### Additional Context on Category Definitions: 
 
 It would also be helpful to clarify how product categories, such as "Dips & Salsa" and "Health & Wellness," are defined. This will ensure that any insights drawn align with business expectations.
-
-Please let me know if you’d like to discuss this further. I’m happy to provide more details or adjust the analysis based on your input.
-
-Thank you for your time and assistance!
-
-Best,
-Akin
